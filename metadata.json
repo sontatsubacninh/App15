@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Action Generator",
+  "description": "Upload a reference image, describe an action, and let AI generate a new image depicting that character or object performing the desired action.",
+  "requestFramePermissions": []
+}
